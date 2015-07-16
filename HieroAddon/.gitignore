@@ -1,8 +1,4 @@
-bin/
+bin/release/
 publish/
 obj/
 properties/
-
-
-
-
