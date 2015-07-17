@@ -10,5 +10,5 @@ To be used in conjuction with XML .fnt parsing techniques.
 Just grab hieroconv.exe from bin/debug folder, stick it anywhere and use through command prompt.
 Example: you have ubuntu.fnt plain font file in your C: drive root directory.
 Open console wherever you placed hieroconv.exe and type "hieroconv C:/ubuntu.fnt" to convert it.
-New file ubuntu_xml.fnt will be created in same directory as initial file.
+New file ubuntu_xml.fnt will be created in the same directory.
 Alternatively you can use "hieroconv c:/ubuntu.fnt -p" to view the result without actually converting or writing the file.
